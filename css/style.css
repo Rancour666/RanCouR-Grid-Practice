@@ -134,7 +134,7 @@ ul {
 }
 .sidebar:hover {
 	transform: translate(-5px, -5px);
-	background-color: #942b86;
+	background-color: #4c187c8a;
 	box-shadow: 6px 6px 15px #000;
 }
 
