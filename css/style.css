@@ -44,11 +44,10 @@ ul {
 		"footer";
 }
 .header {
-	background-color: rgba(229, 255, 0, 0.616);
-	padding: 25px;
+	background-color: rgba(255, 0, 0, 0.575);
+	padding: 15px;
 	display: grid;
 	grid-area: "header";
-	display: grid;
 	grid-template: 1fr/1fr minmax(auto, 300px) minmax(auto, 1100px) 1fr;
 	align-items: center;
 }
@@ -56,7 +55,7 @@ ul {
 	width: 70px;
 	height: 70px;
 	border-radius: 50%;
-	background-color: #fff;
+	background-color: rgba(23, 112, 172, 0.616);
 	grid-column: 2;
 }
 .header__menu {
@@ -320,7 +319,7 @@ ul {
 .footer {
 	padding: 15px;
 	grid-area: "footer";
-	background-color: #77608d;
+	background-color: hsla(244, 19%, 46%, 0.589);
 	display: grid;
 	grid-template: 1fr/1fr minmax(auto, 300px) minmax(auto, 1100px) 1fr;
 	align-items: center;
