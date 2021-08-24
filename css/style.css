@@ -44,7 +44,7 @@ ul {
 		"footer";
 }
 .header {
-	background-color: #794f45;
+	background-color: rgba(201, 49, 49, 0.863);
 	padding: 15px;
 	display: grid;
 	grid-area: "header";
