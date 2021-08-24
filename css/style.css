@@ -20,7 +20,7 @@ a {
 	color: #794f45;
 }
 h1 {
-	font-size: 50px;
+	font-size: 40px;
 	line-height: 1;
 	margin: 0px 0px 50px 0px;
 	text-shadow: 2px 2px 5px #000;
@@ -85,7 +85,6 @@ ul {
 	font-size: 16px;
 }
 
-
 @media (max-width: 992px) {
 	.header__list {
 		display: none;
@@ -135,10 +134,9 @@ ul {
 }
 .sidebar:hover {
 	transform: translate(-5px, -5px);
-	background-color: #2b946c;
+	background-color: #2b3e94;
 	box-shadow: 6px 6px 15px #000;
 }
-
 
 .sidebar__link {
 	color: #fff;
@@ -157,8 +155,6 @@ ul {
 	transform: scale(1.3) translate(0px, 0px);
 }
 
-
-
 @media (min-width: 992px) {
 	.main {
 		display: grid;
@@ -174,8 +170,6 @@ ul {
 		padding: 30px 15px;
 	}
 }
-
-
 
 .gallery {
 	margin: 0 0 50px 0;
