@@ -20,7 +20,7 @@ a {
 	color: #794f45;
 }
 h1 {
-	font-size: 10px;
+	font-size: 40px;
 	line-height: 1;
 	margin: 0px 0px 50px 0px;
 	text-shadow: 2px 2px 5px #000;
@@ -44,7 +44,7 @@ ul {
 		"footer";
 }
 .header {
-	background-color: rgba(187, 43, 43, 0.863);
+	background-color: rgba(229, 255, 0, 0.616);
 	padding: 15px;
 	display: grid;
 	grid-area: "header";
@@ -126,7 +126,7 @@ ul {
 }
 
 .sidebar {
-	background-color: rgba(47, 127, 201, 0.822);
+	background-color: rgba(17, 48, 5, 0.822);
 	padding: 20px;
 	margin: 0 0 30px 0;
 	border-radius: 20px;
@@ -134,7 +134,7 @@ ul {
 }
 .sidebar:hover {
 	transform: translate(-5px, -5px);
-	background-color: #4c187c8a;
+	background-color: #9916168a;
 	box-shadow: 6px 6px 15px #000;
 }
 
